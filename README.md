@@ -74,17 +74,4 @@ Here are some ideas to get you started:
 
 ##### Play with me
 <h2 data-importer="text" align="left">Play games with me</h2>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaryMuktiRamdhani/HaryMuktiRamdhani/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaryMuktiRamdhani/HaryMuktiRamdhani/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HaryMuktiRamdhani/HaryMuktiRamdhani/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/HaryMuktiRamdhani/HaryMuktiRamdhani/snake-output/snake.svg" alt="Snake animation" />
-
-###
