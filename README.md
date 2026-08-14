@@ -1,4 +1,4 @@
-![Hary Mukti Ramdhani](images/banner_github_hary.png)
+![Hary Mukti Ramdhani](images/banner-github-hary_2.png)
 <!--
 **HaryMuktiRamdhani/HaryMuktiRamdhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
