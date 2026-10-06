@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 
 ##### My Github Stats
-[![](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/HaryMuktiRamdhani/github-readme-stats)
 
 ##### Play with me
 <h2 data-importer="text" align="left">Play games with me</h2>
