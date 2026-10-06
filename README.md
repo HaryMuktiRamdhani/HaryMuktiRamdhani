@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on programmer
-- 🌱 I’m currently learning React Typescript
-- 👾👾👾
 
 ##### Skills
 
