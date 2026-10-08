@@ -1,5 +1,5 @@
 ### Hello There! I'am Hary Mukti Ramdhani
-![Hary Mukti Ramdhani](images/banner-github-hary_2.png)
+![Hary Mukti Ramdhani](images/github-header-banner.png)
 <!--
 **HaryMuktiRamdhani/HaryMuktiRamdhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
